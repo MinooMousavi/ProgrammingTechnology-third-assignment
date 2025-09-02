@@ -27,6 +27,12 @@ Two players control light motorcycles that leave a trail of light behind them. T
 - **Menu Options:**  
   - View top 10 highscore table.
   - Restart the game at any time.
+ 
+## Technologies
+
+- **Language:** Java
+- **IDE:** NetBeans
+- **Database:** SQLite (or other supported Java DB)
 
 ## Installation
 
