@@ -27,3 +27,10 @@ Two players control light motorcycles that leave a trail of light behind them. T
 - **Menu Options:**  
   - View top 10 highscore table.
   - Restart the game at any time.
+
+## Installation
+
+1. Clone the repository:
+
+```bash
+git clone 
